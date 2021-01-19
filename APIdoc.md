@@ -40,7 +40,36 @@ Listagem de todas as ferramentas cadastradas na API.
                                                 "express"
                                                 ]
                                         "__v":0
-                                }
+                                },
+                                {
+                                       "_id": "5f6ce9d805615a85623ec2c9",
+                                       "title": "json-server",
+                                       "link": "https://github.com/typicode/json-server",
+                                       "description": "Fake REST API based on a json schema. Useful for mocking and creating APIs for front-end devs to consume in coding challenges.",
+                                       "tags": [
+                                           "api",
+                                           "json",
+                                           "schema",
+                                           "node",
+                                           "github",
+                                           "rest"
+                                       ]
+                                   },
+                                   {
+                                       "_id": "5f6d127156b0219cac2f5222",
+                                       "title": "fastify",
+                                       "link": "https://www.fastify.io/",
+                                       "description": "Extremely fast and simple, low-overhead web framework for NodeJS. Supports HTTP2.",
+                                       "tags": [
+                                           "web",
+                                           "framework",
+                                           "node",
+                                           "http2",
+                                           "https",
+                                           "localhost"
+                                       ]
+                                   }
+ ]     
                         ]
         }
 
