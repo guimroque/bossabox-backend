@@ -15,7 +15,7 @@ API para fornecer dados sobre ferramentas de desenvolvedores.
 
                 node start
 
-E pronto, seu projeto está rodando em ambiente local e voce pode fazer suas requisições a está api.
+E pronto, seu projeto está rodando em ambiente local e voce pode fazer suas requisições a essa api.
 
 # Confira abaixo as requisições que este projeto está preparado para atender
 
