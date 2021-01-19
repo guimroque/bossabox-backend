@@ -2,8 +2,23 @@ FORMAT: A1
 
 # Tools API
 
-Descrição da API para fornecer dados sobre ferramentas de desenvolvedores.
+API para fornecer dados sobre ferramentas de desenvolvedores.
 
+## Getting started
+
++ Após baixar aqui do git o projeto você precisa instalar as instancias que ele utiliza, para isso, dentro da pasta raiz do projeto execute o comando:
+
+                npm install
+
++ Após todas as dependencias serem instaladas, você precisa fornecer uma url de conexão com o MONGODB para seu Cluster no arquivo "secret.json" dentro da pasta "config" que está na raiz do projeto.
+
++ Para executar basta rodas o comando:
+
+                npm start
+
+E pronto, seu projeto está rodando em ambiente local e voce pode fazer suas requisições a está api.
+
+# Confira abaixo as requisições que este projeto está preparado para atender
 
 ## Listar ferramentas [GET]
 
