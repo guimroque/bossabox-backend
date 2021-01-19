@@ -11,7 +11,7 @@ API para fornecer dados sobre ferramentas de desenvolvedores.
 
 + Após todas as dependencias serem instaladas, você precisa fornecer uma url de conexão com o MONGODB para seu Cluster no arquivo "secret.json" dentro da pasta "config" que está na raiz do projeto.
 
-+ Para executar basta rodas o comando:
++ Para executar basta rodar o comando:
 
                 node start
 
