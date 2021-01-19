@@ -1,2 +1,0 @@
-# bossabox-backend
-Desafio bossaBox
