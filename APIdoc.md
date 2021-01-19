@@ -1,4 +1,3 @@
-FORMAT: A1
 
 # Tools API
 
