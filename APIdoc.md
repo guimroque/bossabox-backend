@@ -14,7 +14,7 @@ API para fornecer dados sobre ferramentas de desenvolvedores.
 
 + Para executar basta rodas o comando:
 
-                npm start
+                node start
 
 E pronto, seu projeto está rodando em ambiente local e voce pode fazer suas requisições a está api.
 
